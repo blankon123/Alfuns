@@ -1,2 +1,2 @@
 # Alfuns
-Multivar Regression Diagnosys with Ipython + R :)
+Multivar Regression Diagnosis with Ipython + R :)
